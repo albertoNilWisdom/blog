@@ -5,9 +5,9 @@ But... I noticed that sometimes music that was once available to me was then reg
 Considering the money I had spent on Spotify, roughly £1078.80 over ten years, I decided on self hosting my music library from my home server using the music I own.
 
 Turning this:
-![[Pasted image 20250723092326.png]]
+![CDRACK](https://64.media.tumblr.com/b3106d81605f0731109e4e3ad71a6c1a/58e2845f74b4486a-2b/s1280x1920/28fd670ad11efbf515efc226431bef793db2b835.png)
 Into this:
-![[document_5767399737107945964.mp4]]
+![library](https://64.media.tumblr.com/14819e0987074bd3b39f6ea1fad5303f/58e2845f74b4486a-44/s400x600/bdd9462ea37f9e52128e604e027f8b7ad07a481c.gif)
 
 The tools I have used to set this up are:
 - [debian](https://www.debian.org/)
